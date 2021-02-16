@@ -1,0 +1,43 @@
+/**************************tag selectors**************************/
+h1{
+  color: #794c74;
+  font-size: 20px;
+  background-color: cyan;
+  font-size: 35px;
+  display: inline-block;
+}
+body {
+  background-color: white;
+}
+
+hr {
+
+  width: 10%;
+ background-color: white;
+ border-style: none;
+ border-top-style: dotted;
+ height: 5px;
+ border-color: grey;
+ border-width: 7px;
+}
+h3{
+color: #66BFBF;
+}
+
+img:hover {
+background-color: gold;
+
+}
+/***************************class selectors*********************/
+
+.one{
+
+  font-size: 20px;
+
+}
+
+/*******************************id selectors*************************/
+#heading{
+
+  color: blue;
+}
